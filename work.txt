@@ -5,3 +5,5 @@ SQL
 OOPS
 Basics of programming(c,c++)
 OR
+Travelling Salesman problem
+Transportation problem
